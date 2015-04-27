@@ -1,1 +1,23 @@
-You log goes in this  file.
+Start: Mon, 13 Apr 2015 19:00:00 -0800
+End: Mon, 13 Apr 2015 23:45:00 -0800
+Tasks: watched videos and read the reading web sites.
+
+Start: Tue, 14 Apr 2015 19:00:00 -0800
+End: Tue, 14 Apr 2015 23:59:00 -0800
+Tasks: Started working on the objects js file.
+
+Start: Wed, 15 Apr 2015 18:45:00 -0800
+End: Wed, 15 Apr 2015 22:59:00 -0800
+Tasks: Started on the variables js file, no issues here.
+
+Start: Thu, 16 Apr 2015 19:00:00 -0800
+End: Thu, 16 Apr 2015 23:59:00 -0800
+Tasks: Worked on the functions file, spent a lot of time on the method here.
+
+Start: Fri, 17 Apr 2015 19:00:00 -0800
+End: Fri, 17 Apr 2015 23:59:00 -0800
+Tasks: Worked on the parse here, this was not finished.
+
+Start: Sat, 18 Apr 2015 19:30:00 -0800
+End: Sun, 19 Apr 2015 01:30:00 -0800
+Tasks: Worked on the parse here, and tryed to clean up errors.
